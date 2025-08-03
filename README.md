@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gokul S</h1>
-<h3 align="center">CS Engineer | Full Stack Developer | DSA Enthusiast | Future MNC Engineer 🚀</h3>
+<h3 align="center">Computer Science Engineer | DSA | Passionate Developer | Full Stack Developer |  Cloud Learne | Open Source Contributor |  🚀</h3>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-🎓 I'm a **Computer Science Engineering** student (3rd Year) driven by innovation and impact.  
+🎓 I'm a **Computer Science Engineering** student (2rd Year) driven by innovation and impact.  
 🌱 Currently diving deep into **System Design**, **Cloud Technologies**, and **AI tools**.  
 💻 Regularly solving problems on **LeetCode** and building **real-world projects** using the **MERN Stack**.  
 🎯 My goal is to become a **Software Engineer** at a top-tier MNC.
@@ -39,27 +39,17 @@
 
 ### 📊 DSA Progress on LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gokul_s?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/gokul_s)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/go_123?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/go_123)
 
 > 📈 Consistently solving problems to master Data Structures and Algorithms!
 
 ---
 
-### 🚀 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul-12-abc&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gokul-12-abc&theme=radical&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-12-abc&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gokul_s/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/gokul_s/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gokul@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gokul-sg-94819432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/go_123/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sggokul762@gmail.com)
 
 ---
 

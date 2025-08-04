@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing **B.E. in Computer Science Engineering** (3rd Year)  
+- 🎓 Pursuing **B.E. in Computer Science Engineering** (2rd Year)  
 - 🚀 Currently diving deep into **System Design**, **Cloud**, and **AI tools**
 - 💡 Love building **real-world apps** using the **MERN stack**
 - 🔭 Active on **LeetCode**, aiming for strong DSA mastery  

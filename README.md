@@ -24,7 +24,13 @@
 
 ### 📂 My Certificates  
 
-- 📜 [Explore my verified certificates](https://github.com/your-username/certificates)  
+📜 Explore all my verified certificates in one place:  
+
+<p align="center">
+  <a href="https://github.com/your-username/certificates">
+    <img src="https://img.shields.io/badge/📂-View%20My%20Certificates-00ADB5?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 

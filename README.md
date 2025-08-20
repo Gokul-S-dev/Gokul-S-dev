@@ -11,14 +11,20 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
 - 🎓 Pursuing **B.E. in Computer Science Engineering** (2rd Year)  
-- 🚀 Currently diving deep into **System Design**, **Cloud**, and **AI tools**
-- 💡 Love building **real-world apps** using the **MERN stack**
+- 🚀 Currently diving deep into **System Design**, **Cloud**, and **AI tools**  
+- 💡 Love building **real-world apps** using the **MERN stack**  
 - 🔭 Active on **LeetCode**, aiming for strong DSA mastery  
-- 👨‍💻 Always eager to collaborate on open-source & impactful projects
+- 👨‍💻 Always eager to collaborate on open-source & impactful projects  
 - 🎯 Ambition: Become a **Software Engineer at a top-tier MNC**
+
+---
+
+### 📂 My Certificates  
+
+- 📜 [Explore my verified certificates](https://github.com/your-username/certificates)  
 
 ---
 

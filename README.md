@@ -24,7 +24,7 @@
 
 ### 📂 My Certificates  
 
-📜 Explore all my verified certificates in one place:  
+📜 Explore all my certificates in one place:  
 
 <p align="center">
   <a href="https://github.com/your-username/certificates">
@@ -66,17 +66,6 @@
     <img src="https://leetcard.jacoblin.cool/go_123?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-
----
-
-### 🚀 My Recent Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 💳 **Invoice Generator** | React, jsPDF | Generate professional PDFs with styled design |
-| ✅ **To-Do App** | React, Hooks | Task manager with full CRUD features |
-| 🤖 **ChatBot** | HTML + Node.js + Gemini API | Chatbot powered by LLM |
-| 🌐 **Portfolio Website** | React (WIP) | Personal website showcasing my journey |
 
 ---
 

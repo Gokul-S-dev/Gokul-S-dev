@@ -27,7 +27,7 @@
 📜 Explore all my certificates in one place:  
 
 <p align="center">
-  <a href="https://github.com/your-username/certificates">
+  <a href="[https://github.com/your-username/certificates](https://github.com/Gokul-S-dev/Certificate.git)">
     <img src="https://img.shields.io/badge/📂-View%20My%20Certificates-00ADB5?style=for-the-badge&logo=github" />
   </a>
 </p>

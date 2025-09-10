@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator - Gokul S</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <div class="calculator">
+            <div class="display">
+                <div class="display-screen" id="display">0</div>
+            </div>
+            <div class="buttons-grid">
+                <!-- Row 1: Clear functions -->
+                <button class="btn btn-clear" onclick="clearAll()">C</button>
+                <button class="btn btn-clear" onclick="clearEntry()">CE</button>
+                <button class="btn btn-operator" onclick="deleteLast()">⌫</button>
+                <button class="btn btn-operator" onclick="inputOperator('/')">÷</button>
+                
+                <!-- Row 2: Numbers 7-9 and multiply -->
+                <button class="btn btn-number" onclick="inputNumber('7')">7</button>
+                <button class="btn btn-number" onclick="inputNumber('8')">8</button>
+                <button class="btn btn-number" onclick="inputNumber('9')">9</button>
+                <button class="btn btn-operator" onclick="inputOperator('*')">×</button>
+                
+                <!-- Row 3: Numbers 4-6 and subtract -->
+                <button class="btn btn-number" onclick="inputNumber('4')">4</button>
+                <button class="btn btn-number" onclick="inputNumber('5')">5</button>
+                <button class="btn btn-number" onclick="inputNumber('6')">6</button>
+                <button class="btn btn-operator" onclick="inputOperator('-')">−</button>
+                
+                <!-- Row 4: Numbers 1-3 and add -->
+                <button class="btn btn-number" onclick="inputNumber('1')">1</button>
+                <button class="btn btn-number" onclick="inputNumber('2')">2</button>
+                <button class="btn btn-number" onclick="inputNumber('3')">3</button>
+                <button class="btn btn-operator" onclick="inputOperator('+')">+</button>
+                
+                <!-- Row 5: Zero, decimal and equals -->
+                <button class="btn btn-number btn-zero" onclick="inputNumber('0')">0</button>
+                <button class="btn btn-number" onclick="inputDecimal()">.</button>
+                <button class="btn btn-equals" onclick="calculate()">=</button>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Calculator by <a href="https://github.com/Gokul-S-dev" target="_blank">Gokul S</a></p>
+        </div>
+    </div>
+    <script src="calculator.js"></script>
+</body>
+</html>

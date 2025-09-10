@@ -1,0 +1,252 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.calculator-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Calculator main container */
+.calculator {
+    background: #2d2d2d;
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 
+        0 20px 40px rgba(0, 0, 0, 0.3),
+        0 0 0 1px rgba(255, 255, 255, 0.1);
+    max-width: 350px;
+    width: 100%;
+}
+
+/* Display screen */
+.display {
+    background: #1a1a1a;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #404040;
+}
+
+.display-screen {
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: right;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    line-height: 1.2;
+}
+
+/* Buttons grid */
+.buttons-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+}
+
+/* Button base styles */
+.btn {
+    height: 65px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.4rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    user-select: none;
+    outline: none;
+}
+
+/* Number buttons */
+.btn-number {
+    background: #4a4a4a;
+    color: #ffffff;
+    border: 1px solid #5a5a5a;
+}
+
+.btn-number:hover {
+    background: #5a5a5a;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.btn-number:active {
+    transform: translateY(0);
+    background: #3a3a3a;
+}
+
+/* Operator buttons */
+.btn-operator {
+    background: #00ADB5;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.btn-operator:hover {
+    background: #009ba3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 173, 181, 0.4);
+}
+
+.btn-operator:active {
+    transform: translateY(0);
+    background: #007f85;
+}
+
+/* Clear buttons */
+.btn-clear {
+    background: #ff6b6b;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.btn-clear:hover {
+    background: #ff5252;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 107, 107, 0.4);
+}
+
+.btn-clear:active {
+    transform: translateY(0);
+    background: #e53e3e;
+}
+
+/* Equals button */
+.btn-equals {
+    background: #4CAF50;
+    color: #ffffff;
+    font-weight: 600;
+    grid-column: span 2;
+}
+
+.btn-equals:hover {
+    background: #45a049;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+}
+
+.btn-equals:active {
+    transform: translateY(0);
+    background: #3d8b40;
+}
+
+/* Zero button spans two columns */
+.btn-zero {
+    grid-column: span 2;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+}
+
+.footer a {
+    color: #00ADB5;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+    
+    .calculator {
+        padding: 20px;
+        max-width: 320px;
+    }
+    
+    .display-screen {
+        font-size: 2rem;
+        min-height: 50px;
+    }
+    
+    .btn {
+        height: 55px;
+        font-size: 1.2rem;
+    }
+    
+    .buttons-grid {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 360px) {
+    .calculator {
+        padding: 15px;
+        max-width: 280px;
+    }
+    
+    .display-screen {
+        font-size: 1.8rem;
+        min-height: 45px;
+    }
+    
+    .btn {
+        height: 50px;
+        font-size: 1.1rem;
+    }
+    
+    .buttons-grid {
+        gap: 8px;
+    }
+}
+
+/* Error state */
+.error {
+    color: #ff6b6b !important;
+    animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+    0%, 20%, 40%, 60%, 80% {
+        transform: translateX(0);
+    }
+    10%, 30%, 50%, 70%, 90% {
+        transform: translateX(-5px);
+    }
+}
+
+/* Button press animation */
+@keyframes buttonPress {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.95);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.btn-pressed {
+    animation: buttonPress 0.1s ease-in-out;
+}

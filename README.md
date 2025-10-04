@@ -63,6 +63,18 @@
 
 ---
 
+### 📈 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-S-dev&show_icons=true&theme=tokyonight" height="160" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gokul-S-dev&theme=tokyonight" height="160" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-S-dev&layout=compact&theme=tokyonight" height="160"/>  
+</p>  
+
+
+---
+
 ### 📈 My LeetCode Progress
 
 <p align="center">

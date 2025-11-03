@@ -62,6 +62,18 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 
 ---
+### 🚀 Featured Projects
+<div align="center">
+
+| Project | Tech Stack | Link |
+|----------|-------------|------|
+| <b>TaskMate</b><br><sub>MERN Stack Task App</sub> | MERN Stack | <a href="https://github.com/Gokul-S-dev/TaskMate">🔗 Repo</a> |
+| <b>CloudDeploy</b><br><sub>Docker + AWS Deployment</sub> | Docker, AWS | <a href="https://github.com/Gokul-S-dev/CloudDeploy">🔗 Repo</a> |
+| <b>Portfolio Website</b><br><sub>Personal Showcase</sub> | HTML, CSS, JS | <a href="https://gokul-s-dev.github.io/Portfolio">🌐 Live</a> |
+
+</div>
+---
+
 
 ### 📈 GitHub Stats  
 <p align="center">  

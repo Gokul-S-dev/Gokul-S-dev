@@ -72,8 +72,8 @@
 | <b>Portfolio Website</b><br><sub>Personal Showcase</sub> | HTML, CSS, JS | <a href="https://gokul-s-dev.github.io/Portfolio">🌐 Live</a> |
 
 </div>
----
 
+---
 
 ### 📈 GitHub Stats  
 <p align="center">  

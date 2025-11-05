@@ -66,10 +66,10 @@
 <div align="center">
 
 | Project | Tech Stack | Link |
-|----------|-------------|------|
-| <b>TaskMate</b><br><sub>MERN Stack Task App</sub> | MERN Stack | <a href="https://github.com/Gokul-S-dev/TaskMate">🔗 Repo</a> |
+|--------------------------|-----------------------------|-----------------------------|
 | <b>CloudDeploy</b><br><sub>Docker + AWS Deployment</sub> | Docker, AWS | <a href="https://github.com/Gokul-S-dev/CloudDeploy">🔗 Repo</a> |
-| <b>Portfolio Website</b><br><sub>Personal Showcase</sub> | HTML, CSS, JS | <a href="https://gokul-s-dev.github.io/Portfolio">🌐 Live</a> |
+| <b>Portfolio Website</b><br><sub>Personal Showcase</sub> | HTML, CSS, JS | <a href="https://gokulsofficial.netlify.app/">🌐 Live</a> |
+| <b>Text-to-Voice</b><br> <sub> Browser API used </sub> | HTML, CSS, JS |   <a href="https://github.com/Gokul-S-dev/Text-to-Voice.git">🔗 Repo</a> |
 
 </div>
 

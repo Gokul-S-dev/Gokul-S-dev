@@ -13,18 +13,18 @@
 
 ### 🧠 About Me  
 
-- 🎓 Pursuing **B.E. in Computer Science Engineering** (2rd Year)  
-- 🚀 Currently diving deep into **System Design**, **Cloud**, and **AI tools**  
-- 💡 Love building **real-world apps** using the **MERN stack**  
-- 🔭 Active on **LeetCode**, aiming for strong DSA mastery  
-- 👨‍💻 Always eager to collaborate on open-source & impactful projects  
-- 🎯 Ambition: Become a **Software Engineer at a top-tier MNC**
+-  Pursuing **B.E. in Computer Science Engineering** (2rd Year)  
+-  Currently diving deep into **System Design**, **Cloud**, and **AI tools**  
+-  Love building **real-world apps** using the **MERN stack**  
+-  Active on **LeetCode**, aiming for strong DSA mastery  
+-  Always eager to collaborate on open-source & impactful projects  
+-  Ambition: Become a **Software Engineer at a top-tier MNC**
 
 ---
 
 ### 📂 My Certificates  
 
-📜 Explore all my certificates in one place:  
+ Explore all my certificates in one place:  
 
 <p align="center">
   <a href="https://github.com/Gokul-S-dev/Certificate.git">

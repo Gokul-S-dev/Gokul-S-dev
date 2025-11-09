@@ -1,4 +1,3 @@
-<!-- Profile README -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00ADB5">Gokul S</span></h1>
 <h3 align="center"> Computer Science and Engineering | MERN Stack Developer | Cloud Learner | Docker Learner | Open Source Contributor 🚀</h3>

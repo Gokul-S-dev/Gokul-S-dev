@@ -13,11 +13,10 @@
 ### 🧠 About Me  
 
 -  Pursuing **B.E. in Computer Science Engineering** (2rd Year)  
--  Currently diving deep into **System Design**, **Cloud**, and **AI tools**  
+-  Currently diving deep into **Cloud**, and **Devops**  
 -  Love building **real-world apps** using the **MERN stack**  
--  Active on **LeetCode**, aiming for strong DSA mastery  
--  Always eager to collaborate on open-source & impactful projects  
--  Ambition: Become a **Software Engineer at a top-tier MNC**
+-  Active on **LeetCode**, aiming for strong DSA mastery    
+-  Ambition: Become a **Proficient Software Engineer**
 
 ---
 

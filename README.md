@@ -9,7 +9,6 @@
 
 ---
 
-
 ### 🧠 About Me  
 
 -  Pursuing **B.E. in Computer Science Engineering** (2rd Year)  

@@ -9,6 +9,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://gokulsofficial.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-00ADB5?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ### 🧠 About Me  
 
 -  Pursuing **B.E. in Computer Science Engineering** (2rd Year)  

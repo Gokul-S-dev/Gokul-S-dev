@@ -8,12 +8,14 @@
 </div>
 
 ---
+### 🌐 Visit my portfolio 
 
 <p align="center">
-  <a href="https://gokulsofficial.netlify.app/">
+  <a href="https://gokulportfolio.tech/">
     <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-00ADB5?style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 

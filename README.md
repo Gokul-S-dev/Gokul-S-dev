@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 Hey there, I'm <span style="color:#00ADB5">Gokul S</span></h1>
 <h3 align="center"> Computer Science and Engineering | MERN Stack Developer | Cloud Learner | Docker Learner | Open Source Contributor 🚀</h3>
 <div align="center">
@@ -7,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=I+am+a+Full+Stack+Developer;Software+Engineer;Always+Learning+New+Tech+💻" alt="Typing SVG" />
   </h3> -->
 </div>
----
 ### 🌐 Visit my portfolio 
 
 <p align="center">

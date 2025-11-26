@@ -15,8 +15,8 @@
 ### 🧠 About Me  
 -  **2nd Year B.E. CSE Student**  
 -  Currently exploring **Cloud, DevOps, and Full Stack Development**  
--  Passionate about building **real-world MERN stack applications**  
--  Practicing DSA regularly on **LeetCode**  
+-  Passionate about building **real-worl applications**  
+-  Practicing DSA regularly 
 -  Goal: Become a **Proficient Software Engineer**  
 
 ---

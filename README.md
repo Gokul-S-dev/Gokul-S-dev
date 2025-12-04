@@ -13,8 +13,7 @@
 ---
 
 ### 🧠 About Me  
--  **2nd Year B.E. CSE Student**  
--  Currently exploring **Cloud, DevOps, and Full Stack Development**  
+-  Currently Developing my skill in **Cloud, DevOps, and Full Stack Development**  
 -  Passionate about building **real-worl applications**  
 -  Practicing DSA regularly 
 -  Goal: Become a **Proficient Software Engineer**  

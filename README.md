@@ -99,7 +99,7 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gokul-sg-94819432a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gokuls2512"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://leetcode.com/go_123/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
   <a href="mailto:sggokul762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>

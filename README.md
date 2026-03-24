@@ -69,6 +69,7 @@
 
 | Project | Tech Stack | Link |
 |--------|------------|-------|
+| <b>QR Generator</b><br><sub>Go + React </sub> | React , Go , AWS | <a href="https://github.com/Gokul-S-dev/Url-to-Qr-Generator">🔗 Repo</a> |
 | <b>CloudDeploy</b><br><sub>Docker + AWS Deployment</sub> | Docker, AWS | <a href="https://github.com/Gokul-S-dev/CloudDeploy">🔗 Repo</a> |
 | <b>Portfolio Website</b><br><sub>Personal Showcase</sub> | HTML, CSS, JS | <a href="https://gokulsofficial.netlify.app/">🌐 Live</a> |
 | <b>Text-to-Voice</b><br><sub>Browser API</sub> | HTML, CSS, JS | <a href="https://github.com/Gokul-S-dev/Text-to-Voice.git">🔗 Repo</a> |

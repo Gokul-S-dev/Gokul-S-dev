@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey there! I'm <span style="color:#00ADB5">Gokul S</span></h1>
-<h3 align="center">AWS Cloud Engineering | MERN Stack Developer | Cloud & DevOps Learner | Open Source Contributor </h3>
+<h3 align="center">AWS Student Builder Group Leader at KIT| AWS Cloud Engineering | MERN Stack Developer | Cloud & DevOps Learner | Open Source Contributor </h3>
 
 ---
 
